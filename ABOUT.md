@@ -2,8 +2,9 @@ layout: page
 title: "about"
 permalink: /about/
 
-## ABOUT
+# ABOUT
 
+![That's Me!](images/ME.jpg)
 Hey you, welcome! I'm Victoria (she/her), and I am a PhD student at the University of Edinburgh and I work on the ATLAS experiment. My work with ATLAS focuses on using machine learning architectures to search for theoretical particless decaying to the standard model particle, tau. I hope the technology I am developing can be utilized even beyond the applications of particle physics.
 
 My highest awarded degrees are a Bachelor's of Arts in Physics and a Bachlors of Arts in Music: Vocal Performance and Composiiton. I went to Mount Holyoke College for my undergraduate degrees, and have wound up in Scotland now pursuing my PhD.

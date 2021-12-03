@@ -3,7 +3,7 @@ title: "education"
 permalink: /education/
 
 
-## EDUCATION
+# EDUCATION
 
 [Edinburgh](https://www.ed.ac.uk/sites/all/themes/uoe/assets/logo.png)
 | September 2019 - Present | **University of Edinburgh** |  PhD Physics |

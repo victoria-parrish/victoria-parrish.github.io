@@ -2,13 +2,15 @@ layout: page
 title: "reserach"
 permalink: /research/
 
-## RESEARCH
+# RESEARCH
 
 Remember those theoretical particles I mentioned right up there? The ones that I look for are called "long-lived" particles (or LLPs, for short). 
 
 These are particles that decay far out in the ATLAS detector into standard model particles, thus producing a unique signature of that standard model particle. 
 
 I look paritcularly at displaced tau objects in ATLAS, and my ATLAS authorship was on develop a model-indepdent displaced tau trigger (quite a tricky challenege).  
+
+## Developments
 
 ATLAS trigger:
 - Run 3 displaced single and ditau trigger 

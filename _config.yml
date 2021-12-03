@@ -1,6 +1,14 @@
-theme: jekyll-theme-time-machine
-# Site settings
+# Site wide configuration
+
 title: Victoria Parrish
-author: Victoria Parrish 
-  name: Victoria Parrish (she/her)
+locale: en_US
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Victoria Parrish
+  avatar: bio-photo.jpg
   email: victoria.alexis.parrish@cern.ch
+  # Do not include the @ symbol in your Twitter username
+  linkedin: victoria-parrish
+  github: victoria-parrish
+  orcid: 0000-0001-5164-9414
