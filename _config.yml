@@ -13,8 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 social:
   github: https://github.com/victoria-parrish
   linkedin-square: https://linkedin.com/in/victoria-parrish
-  email:
-    html: '%{message} Reach out to <a href="mailto:%{victoria.alexis.parrish@cern.ch}">%{victoria.alexis.parrish@cern.ch}</a>.' 
+  email: /contact/
   #flickr:
   #instagram:
   #youtube-square:
