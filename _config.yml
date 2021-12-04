@@ -1,14 +1,54 @@
-# Site wide configuration
+# Welcome to Jekyll!
+#
 
+# Site settings
 title: Victoria Parrish
-locale: en_US
+description: |
+  Researcher in Particle Physics with the ATLAS experiment 
+  at the University of Edinburgh.
+owner: Victoria Parrish # or company name
+first_published: 2021 # if migrating another site, the year of your first publish
+email: victoria.alexis.parrish@cern.ch
+baseurl: "" # the subpath of your site, e.g. /blog
+social:
+  github: https://github.com/victoria-parrish
+  linkedin-square: https://linkedin.com/in/victoria-parrish
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
 
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Victoria Parrish
-  avatar: ME.jpg
-  email: victoria.alexis.parrish@cern.ch
-  # Do not include the @ symbol in your Twitter username
-  linkedin: victoria-parrish
-  github: victoria-parrish
-  orcid: 0000-0001-5164-9414
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
