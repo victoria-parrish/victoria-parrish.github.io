@@ -1,9 +1,8 @@
-# Site naviation links
-- title : about
-url : /
-- title : research
-url : /research/
-- title : education
-url : /education/
-- title : contact
-url : /contact/
+-title: about
+url: /
+-title: research
+url: /research/
+-title: education
+url: /education/
+-title: contact
+url: /contact/
