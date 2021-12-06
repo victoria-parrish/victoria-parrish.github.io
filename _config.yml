@@ -10,7 +10,7 @@ owner: Victoria Parrish # or company name
 first_published: 2021 # if migrating another site, the year of your first publish
 email: victoria.alexis.parrish@cern.ch
 baseurl: "" # the subpath of your site, e.g. /blog
-google: search_engine_id: google-site-verification=ygzHrItmsbmWtT8hbP7WzAgF7qxNNWjJlwQ8ZQfx_FU
+#google: search_engine_id: google-site-verification=ygzHrItmsbmWtT8hbP7WzAgF7qxNNWjJlwQ8ZQfx_FU
 social:
   github: https://github.com/victoria-parrish
   linkedin-square: https://linkedin.com/in/victoria-parrish
