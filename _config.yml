@@ -2,17 +2,17 @@
 #
 
 # Site settings
-title: Dr. Victoria Parrish
+title: Victoria Parrish, Ph.D.
 description: |
-  Post-doctoral scholar in Particle Physics with the IceCube Experiment.
+  Post-doctoral scholar in Experimental Particle Physics with the P-ONE and IceCube Experiments.
 owner: Victoria Parrish # or company name
 first_published: 2021 # if migrating another site, the year of your first publish
-email: victoria.alexis.parrish@cern.ch
+email: parrishv@msu.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 social:
-  github: https://github.com/victoria-parrish
+  github: https://github.com/vparrish
   linkedin-square: https://linkedin.com/in/victoria-parrish
-  email: /contact.html
+  email: mailto:parrishv@msu.edu
   #flickr:
   #instagram:
   #youtube-square:
